@@ -1,0 +1,2 @@
+# MarketScout-Analytics
+MarketScout Analytics
